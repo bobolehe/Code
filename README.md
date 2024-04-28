@@ -14,5 +14,4 @@
 | numpy         | 1.23.5 |
 | pillow        | 9.4.0  |
 
-@bole
 
